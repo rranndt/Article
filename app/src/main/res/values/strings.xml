@@ -1,0 +1,86 @@
+<resources>
+    <!--APP NAME-->
+    <string name="app_name">Article</string>
+
+    <!--API--> <!--IT SHOULD BE HIDDEN SOMEWHERE-->
+    <string name="api_key" translatable="false">Bearer 8631b3d2da8544cbbeb537e251cc19a6</string>
+    <string name="base_url" translatable="false">https://newsapi.org/v2/</string>
+
+    <!--ARGS-->
+    <string name="args" translatable="false">article</string>
+
+    <!--IO EXCEPTION-->
+    <string name="io_exception">You\'re offline. Check your connection!</string>
+    <string name="exception">Failed to fetch news!</string>
+
+    <!--DATABASE-->
+    <string name="database_name" translatable="false">news.db"</string>
+
+    <!--HOME-->
+    <string name="home_short_desc">Stay informed with the latest news.</string>
+
+    <!--SEARCH-->
+    <string name="search_placeholder">Search…</string>
+    <string name="search_empty_content">Your search will appear here.</string>
+
+    <!--DETAIL-->
+    <string name="snackbar_item_bookmarked">Article added to bookmarks.</string>
+
+    <!--SETTING-->
+    <string name="setting_app_info">App info</string>
+    <string name="setting_about">About</string>
+    <string name="setting_app_version">Version %s</string>
+    <string name="setting_profile_picture" translatable="false">Rizki Rian Anandita</string>
+    <string name="setting_profile_email" translatable="false">rizkianandita8@gmail.com</string>
+
+    <!--BOOKMARK-->
+    <string name="title_empty_content">Your bookmark will appear here.</string>
+    <string name="clear_bookmark">Clear all bookmarks</string>
+    <string name="snackbar_item_removed">Article removed from bookmarks.</string>
+
+    <!--ALERT DIALOG-->
+    <string name="confirm_button">Confirm</string>
+    <string name="dismiss_button">Cancel</string>
+    <string name="dialog_title">Confirm to delete!</string>
+    <string name="dialog_text">This action will permanently delete all your items. Are your sure?</string>
+    <string name="snack_bar">There are no articles yet.</string>
+
+    <!--BOTTOM SHEET-->
+    <string name="bottom_sheet_button_title">Read full article</string>
+
+    <!--RETRY CONTENT-->
+    <string name="retry_content_title">Connect to the internet</string>
+    <string name="retry_button_title">Retry</string>
+
+    <!--NAVIGATION-->
+    <string name="news_title">News</string>
+    <string name="search_title">Search</string>
+    <string name="bookmark_title">Bookmarks</string>
+    <string name="setting_title">Setting</string>
+
+    <!--CATEGORIES-->
+    <string-array name="categories">
+        <item>General</item>
+        <item>Business</item>
+        <item>Health</item>
+        <item>Science</item>
+        <item>Sports</item>
+        <item>Technology</item>
+        <item>Entertainment</item>
+    </string-array>
+
+    <!--CONTENT DESCRIPTION-->
+    <string name="desc_scroll_to_top_button">Scroll to top button</string>
+    <string name="desc_icon_dismiss_background">Icon dismiss background</string>
+    <string name="desc_icon_more">Icon more</string>
+    <string name="desc_image_custom_empty_content">Image empty content</string>
+    <string name="desc_coil_image_content">Image content</string>
+    <string name="desc_image_retry_content">Image retry content</string>
+    <string name="desc_detail_top_bar_navigation_icon">Top bar navigation icon</string>
+    <string name="desc_action_bookmark">Bookmark icon</string>
+    <string name="desc_action_share">Share icon</string>
+    <string name="desc_action_browsing">Open in browser</string>
+    <string name="desc_home_title_logo">App name logo</string>
+    <string name="desc_logo_app">Logo application</string>
+    <string name="desc_about">about_page</string>
+</resources>

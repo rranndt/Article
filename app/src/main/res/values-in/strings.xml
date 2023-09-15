@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Article</string>
+    <string name="io_exception">Anda sedang luring. Periksa koneksi Anda!</string>
+    <string name="exception">Gagal mengambil berita!</string>
+    <string name="home_short_desc">Tetap terinformasi dengan berita terbaru.</string>
+    <string name="search_placeholder">Cari…</string>
+    <string name="search_empty_content">Pencarian Anda akan muncul di sini.</string>
+    <string name="snackbar_item_bookmarked">Artikel ditambahkan ke bookmark.</string>
+    <string name="setting_app_info">Info app</string>
+    <string name="setting_about">Tentang</string>
+    <string name="title_empty_content">" Bookmark Anda akan muncul di sini."</string>
+    <string name="clear_bookmark">Hapus semua bookmark</string>
+    <string name="snackbar_item_removed">Artikel dihapus dari bookmark.</string>
+    <string name="confirm_button">Konfirmasi</string>
+    <string name="dismiss_button">Batal</string>
+    <string name="dialog_title">Konfirmasikan untuk menghapus!</string>
+    <string name="dialog_text">" Tindakan ini akan menghapus semua item Anda secara permanen. Apa anda yakin?"</string>
+    <string name="snack_bar">" Belum ada artikel."</string>
+    <string name="bottom_sheet_button_title">Baca artikel selengkapnya</string>
+    <string name="retry_content_title">Hubungkan dengan internet</string>
+    <string name="retry_button_title">Coba kembali</string>
+    <string name="news_title">Berita</string>
+    <string name="search_title">Cari</string>
+    <string name="bookmark_title">Bookmark</string>
+    <string name="setting_title">Pengaturan</string>
+    <string name="desc_scroll_to_top_button">Tombol gulir ke atas</string>
+    <string name="desc_icon_dismiss_background">Ikon mengabaikan latar belakang</string>
+    <string name="desc_icon_more">Iko lebih banyak</string>
+    <string name="desc_image_custom_empty_content">Gambar konten kosong</string>
+    <string name="desc_coil_image_content">Gambar konten</string>
+    <string name="desc_image_retry_content">Gambar konten coba kembali</string>
+    <string name="desc_detail_top_bar_navigation_icon">Ikon navigasi</string>
+    <string name="desc_action_bookmark">Ikon bookmark</string>
+    <string name="desc_action_share">Ikon bagikan</string>
+    <string name="desc_action_browsing">Buka di browser</string>
+    <string name="desc_home_title_logo">Logo nama aplikasi</string>
+    <string name="desc_logo_app">Logo aplikasi</string>
+    <string name="desc_about">Halaman tentang</string>
+    <string name="setting_app_version">Versi %s</string>
+</resources>
